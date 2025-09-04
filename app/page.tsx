@@ -93,7 +93,7 @@ export default function HomePage() {
     title: '',
     location: '',
     type: '',
-    salaryRange: [5, 80] as [number, number],
+    salaryRange: [5, 100] as [number, number],
   });
   const [mounted, setMounted] = useState(false);
 
