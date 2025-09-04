@@ -14,11 +14,13 @@
     "@mantine/form": "^8.2.8",
     "@mantine/hooks": "^8.2.8",
     "@mantine/notifications": "^8.2.8",
+    "@prisma/client": "^6.15.0",
     "@tabler/icons-react": "^3.34.1",
     "axios": "^1.11.0",
     "dayjs": "^1.11.18",
     "next": "15.5.2",
     "pg": "^8.16.3",
+    "prisma": "^6.15.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-hook-form": "^7.62.0"
